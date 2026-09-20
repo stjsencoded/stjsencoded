@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="ST. JS ENCODED YouTube Logo.png" alt="ST. JS ENCODED Logo" width="200">
+</p>
+
+
+# 
+
 # **ST. JS ENCODED™**
 
 **Cloud Architect of my own becoming.**  
