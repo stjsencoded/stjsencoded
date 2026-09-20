@@ -1,16 +1,22 @@
-## Hi there 👋
+# ST. JS ENCODED™
 
-<!--
-**stjsencoded/stjsencoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Architect of my own becoming.**  
+**Building systems and worlds.**  
+**ST. JS ENCODED™ — Jeris J. Seraile II**
 
-Here are some ideas to get you started:
+## About Me
+I am building my cloud foundation, my multimedia universe, and my encoded identity through architecture, discipline, and intention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- AWS Cloud
+- Linux
+- Networking
+- Python
+- Git & GitHub
+- Architecture Diagrams
+
+## Projects
+(Projects will be added as they are created.)
+
+## Connect
+(Links will be added soon.)
